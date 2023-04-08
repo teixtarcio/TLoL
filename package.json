@@ -1,0 +1,17 @@
+{
+  "name": "tlol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "iniciar": "node app.js",
+    "testes": "node backendProcess.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "prompt-sync": "^4.2.0",
+    "xhr2": "^0.2.1"
+  }
+}
